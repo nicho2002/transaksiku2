@@ -1,0 +1,29 @@
+{
+	"voucher":
+        { 
+			"status": true,
+			"message": "Yeay, (Bunda) (-> berdasarkan gender) dapat potongan",
+			"data": {
+				"kode_voucher" : "10301CZUFE",
+				"paket" : "All",
+				"jenis_voucher" : "HARGA",
+				"diskon": "50000"
+			},
+			"error_lists": []
+        },
+	"voucher_err_1":
+        { 
+			"status": false,
+			"message": "Oopsss, kode vouchernya salah (bunda) ->  berdasarkan gender",
+			"data": [],
+			"error_lists": []
+        },
+	"voucher_err_2":
+        { 
+			"status": false,
+			"message": "Oopsss, kode vouchernya sudah digunakan (bunda) ->  berdasarkan gender",
+			"data": [],
+			"error_lists": []
+        }
+	
+}
