@@ -4,10 +4,11 @@
 			"status": true,
 			"message": "Yeay, (Bunda) (-> berdasarkan gender) dapat potongan",
 			"data": {
-				"kode_voucher" : "10301CZUFE",
 				"paket" : "All",
 				"jenis_voucher" : "HARGA",
-				"diskon": "50000"
+				"ttl_biaya" : "1192000",
+				"diskon": "50000",
+				"total_bayar": "1142000"
 			},
 			"error_lists": []
         },
