@@ -32,42 +32,10 @@
 			"status": true,
 			"message": "Success!",
 			"data": {
-				"kode_n_booking": "19032019N0000621",
-				"id": 626,
-				"nama": "Theodora Agustine",
-				"alamat_booking": "Sunrise Garden, Jl Surya Asih 3 Blok K No. 4 RT. 005 RW. 05 Kel. Kedoya Utara  Kec. Kebon Jeruk Kota. Jakarta Barat Patokan : TK Lollypop belok kanan, lurus mentok, belok kiri",
-				"tgl_booking_start": [
-					"2019-03-01",
-					"2019-03-02",
-					"2019-03-03",
-					"2019-03-04",
-					"2019-03-05",
-					"2019-03-06",
-					"2019-03-07"
-				],
-				"jam_kedatangan": "07:30:00",
-				"jam_kepulangan": "17:30:00",
-				"ttl_biaya": "1192000",
-				"kode_unik": "846",
-				"diskon": "238400",
-				"total_bayar": "954446",
-				"id_nanny": 40,
-				"nama_nanny": "Sarah Azzahra Pulungan",
-				"usia_nanny": "22 Tahun",
-				"photo_nanny": "https://apis.hamengku.com/images/nanny/sarah-azzahra-pulungan_5bc1ed898e3a5.jpg"
-			},
-			"error_lists": []
-		
-        },
-	"list_transaksi":
-        { 
-			
-			"status": true,
-			"message": "Success!",
-			"data": {
 						"kode_n_booking": "19032019N0000621",
-						"id_family": 155,
-						"nama": "nicho",
+						"id": 626,
+						"nama": "Theodora Agustine",
+						"alamat_booking": "Sunrise Garden, Jl Surya Asih 3 Blok K No. 4 RT. 005 RW. 05 Kel. Kedoya Utara  Kec. Kebon Jeruk Kota. Jakarta Barat Patokan : TK Lollypop belok kanan, lurus mentok, belok kiri",
 						"tgl_booking_start": [
 							"2019-03-01",
 							"2019-03-02",
@@ -77,9 +45,55 @@
 							"2019-03-06",
 							"2019-03-07"
 						],
-						"jml_hari": "7",
-						"status": "Dalam Proses"
+						"jam_kedatangan": "07:30:00",
+						"jam_kepulangan": "17:30:00",
+						"ttl_biaya": "1192000",
+						"kode_unik": "846",
+						"diskon": "238400",
+						"total_bayar": "954446",
+						"id_nanny": 40,
+						"nama_nanny": "Sarah Azzahra Pulungan",
+						"usia_nanny": "22 Tahun",
+						"photo_nanny": "https://apis.hamengku.com/images/nanny/sarah-azzahra-pulungan_5bc1ed898e3a5.jpg"
 					},
+			"error_lists": []
+		
+        },
+	"list_surat_pemesanan":
+        { 
+			
+			"status": true,
+			"message": "Success!",
+			"data": [
+						{
+							"kode_n_booking": "19032019N0000621",
+							"id_nanny": 40,
+							"nama_nanny": "Sarah Azzahra Pulungan",
+							"tgl_booking_start": [
+								"2019-03-01",
+								"2019-03-02",
+								"2019-03-03",
+								"2019-03-04",
+								"2019-03-05",
+								"2019-03-06",
+								"2019-03-07"
+							],
+							"jml_hari": "7",
+							"status": "Dalam Proses"
+						},
+						{
+							"kode_n_booking": "19032019N0000622",
+							"id_nanny": 40,
+							"nama_nanny": "Sarah Azzahra Pulungan",
+							"tgl_booking_start": [
+								"2019-03-11",
+								"2019-03-12",
+								"2019-03-13"							
+							],
+							"jml_hari": "3",
+							"status": "Dalam Proses"
+						}
+					],
 			"error_lists": []
 		
         }
