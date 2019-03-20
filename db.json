@@ -58,6 +58,30 @@
 			},
 			"error_lists": []
 		
+        },
+	"list_transaksi":
+        { 
+			
+			"status": true,
+			"message": "Success!",
+			"data": {
+						"kode_n_booking": "19032019N0000621",
+						"id_family": 155,
+						"nama": "nicho",
+						"tgl_booking_start": [
+							"2019-03-01",
+							"2019-03-02",
+							"2019-03-03",
+							"2019-03-04",
+							"2019-03-05",
+							"2019-03-06",
+							"2019-03-07"
+						],
+						"jml_hari": "7",
+						"status": "Dalam Proses"
+					},
+			"error_lists": []
+		
         }
 	
 }
